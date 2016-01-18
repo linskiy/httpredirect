@@ -1,5 +1,5 @@
 # Summary
 
 * [Введение](overview.md)
-* Детальная информация
+* [Детальная информация](detalnaya_informatsiya.md)
 
